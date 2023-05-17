@@ -1,0 +1,11 @@
+
+
+li>a{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-weight: 900;
+    font-size: 16px;
+    text-transform: capitalize;
+    letter-spacing: 0;
+    text-decoration: none;
+}
